@@ -1,0 +1,170 @@
+{
+  "title": "Árbol Genealógico (ejemplo)",
+  "husband": "Manuel García López",
+  "husbandBirthPlace": "Soria",
+  "husbandBirthDate": "12/03/1901",
+  "husbandDeathPlace": "Soria",
+  "husbandDeathDate": "05/06/1978",
+  "husbandPhoto": "./fotos/ejemplo-01.png",
+  "wife": "Carmen Ruiz Sanz",
+  "wifeBirthPlace": "Burgos",
+  "wifeBirthDate": "21/09/1904",
+  "wifeDeathPlace": "Soria",
+  "wifeDeathDate": "14/02/1989",
+  "wifePhoto": "./fotos/ejemplo-02.png",
+  "children": [
+    {
+      "husband": "José García Ruiz",
+      "husbandBirthPlace": "Soria",
+      "husbandBirthDate": "07/07/1928",
+      "husbandDeathPlace": "Soria",
+      "husbandDeathDate": "02/11/2010",
+      "husbandPhoto": "./fotos/ejemplo-03.png",
+      "wife": "Marta Fernández Gil",
+      "wifeBirthPlace": "Logroño",
+      "wifeBirthDate": "02/01/1931",
+      "wifeDeathPlace": "Soria",
+      "wifeDeathDate": "19/04/2018",
+      "wifePhoto": "./fotos/ejemplo-04.png",
+      "children": [
+        {
+          "husband": "Antonio García Fernández",
+          "husbandBirthPlace": "Soria",
+          "husbandBirthDate": "18/05/1955",
+          "husbandPhoto": "./fotos/ejemplo-05.png",
+          "wife": "Lucía Moreno Vega",
+          "wifeBirthPlace": "Valladolid",
+          "wifeBirthDate": "23/08/1957",
+          "wifePhoto": "./fotos/ejemplo-06.png",
+          "children": [
+            {
+              "husband": "Pablo García Moreno",
+              "husbandBirthPlace": "Madrid",
+              "husbandBirthDate": "04/02/1982",
+              "wife": "Ana Serrano Ortiz",
+              "wifeBirthPlace": "Madrid",
+              "wifeBirthDate": "30/06/1984",
+              "children": [
+                {
+                  "husband": "Hugo García Serrano",
+                  "husbandBirthPlace": "Madrid",
+                  "husbandBirthDate": "11/09/2012",
+                  "children": []
+                },
+                {
+                  "husband": "Julia García Serrano",
+                  "husbandBirthPlace": "Madrid",
+                  "husbandBirthDate": "27/01/2015",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "husband": "Marta García Moreno",
+              "husbandBirthPlace": "Madrid",
+              "husbandBirthDate": "15/12/1986",
+              "children": [
+                {
+                  "husband": "Irene García Moreno",
+                  "husbandBirthPlace": "Madrid",
+                  "husbandBirthDate": "09/03/2019",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "husband": "Beatriz García Fernández",
+          "husbandBirthPlace": "Soria",
+          "husbandBirthDate": "02/10/1959",
+          "wife": "Ramón Ibáñez Soler",
+          "wifeBirthPlace": "Teruel",
+          "wifeBirthDate": "17/04/1958",
+          "children": [
+            {
+              "husband": "Elena Ibáñez García",
+              "husbandBirthPlace": "Zaragoza",
+              "husbandBirthDate": "08/08/1988",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "husband": "Pilar García Ruiz",
+      "husbandBirthPlace": "Soria",
+      "husbandBirthDate": "14/02/1931",
+      "husbandDeathPlace": "Soria",
+      "husbandDeathDate": "30/12/2020",
+      "husbandPhoto": "./fotos/ejemplo-07.png",
+      "wife": "Andrés Vidal Prieto",
+      "wifeBirthPlace": "Palencia",
+      "wifeBirthDate": "09/11/1929",
+      "wifeDeathPlace": "Soria",
+      "wifeDeathDate": "03/03/2005",
+      "wifePhoto": "./fotos/ejemplo-08.png",
+      "children": [
+        {
+          "husband": "Carmen Vidal García",
+          "husbandBirthPlace": "Soria",
+          "husbandBirthDate": "22/07/1960",
+          "wife": "Javier Alonso Mateo",
+          "wifeBirthPlace": "Soria",
+          "wifeBirthDate": "05/05/1959",
+          "children": [
+            {
+              "husband": "Diego Alonso Vidal",
+              "husbandBirthPlace": "Bilbao",
+              "husbandBirthDate": "13/06/1990",
+              "children": []
+            },
+            {
+              "husband": "Sara Alonso Vidal",
+              "husbandBirthPlace": "Bilbao",
+              "husbandBirthDate": "01/12/1993",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "husband": "Luis García Ruiz",
+      "husbandBirthPlace": "Soria",
+      "husbandBirthDate": "03/04/1934",
+      "husbandDeathPlace": "Soria",
+      "husbandDeathDate": "28/01/1996",
+      "wife": "Rosa Martín Calvo",
+      "wifeBirthPlace": "Segovia",
+      "wifeBirthDate": "26/10/1936",
+      "wifeDeathPlace": "Soria",
+      "wifeDeathDate": "12/07/2012",
+      "children": [
+        {
+          "husband": "Sergio García Martín",
+          "husbandBirthPlace": "Soria",
+          "husbandBirthDate": "19/03/1965",
+          "wife": "Nuria Castro Peña",
+          "wifeBirthPlace": "Soria",
+          "wifeBirthDate": "07/09/1966",
+          "children": [
+            {
+              "husband": "Álvaro García Castro",
+              "husbandBirthPlace": "Soria",
+              "husbandBirthDate": "24/11/1995",
+              "children": []
+            }
+          ]
+        },
+        {
+          "husband": "Natalia García Martín",
+          "husbandBirthPlace": "Soria",
+          "husbandBirthDate": "02/02/1968",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

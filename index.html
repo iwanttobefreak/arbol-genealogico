@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Árbol genealógico interactivo: una web estática que dibuja tu familia a partir de un fichero JSON y unas fotos.">
+    <title>Árbol Genealógico</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.26.0/cytoscape.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="titulo">Árbol Genealógico</h1>
+        <div id="controls">
+            <button id="expandAllBtn" title="Muestra todas las generaciones">Expandir todo</button>
+            <button id="centerTreeBtn" title="Ajusta el zoom para ver todo el árbol">Centrar árbol</button>
+            <button id="yearScaleBtn" title="Coloca a cada persona según su año de nacimiento">Escala de Años</button>
+        </div>
+        <div id="cy"></div>
+    </div>
+    <noscript>Esta web necesita JavaScript y un servidor web (no funciona abriendo el fichero con doble clic).</noscript>
+    <script src="script.js"></script>
+</body>
+</html>
